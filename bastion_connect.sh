@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Check if KEY_PATH environment variable is set
